@@ -13,6 +13,7 @@ FoamFile
     object      U;
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+// Here we are viewing vol vector field //
 
 dimensions      [0 1 -1 0 0 0 0];
 
